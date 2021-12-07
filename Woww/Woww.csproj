@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Woww.DAL.DAO\Woww.DAL.DAO.csproj" />
+    <ProjectReference Include="..\Woww.DAL.DTO\Woww.DAL.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

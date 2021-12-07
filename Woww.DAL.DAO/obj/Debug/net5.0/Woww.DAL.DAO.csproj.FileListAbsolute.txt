@@ -1,0 +1,15 @@
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\bin\Debug\net5.0\Woww.DAL.DAO.deps.json
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\bin\Debug\net5.0\Woww.DAL.DAO.dll
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\bin\Debug\net5.0\ref\Woww.DAL.DAO.dll
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\bin\Debug\net5.0\Woww.DAL.DAO.pdb
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\bin\Debug\net5.0\Woww.DAL.DTO.dll
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\bin\Debug\net5.0\Woww.DAL.DTO.pdb
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.csproj.AssemblyReference.cache
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.AssemblyInfoInputs.cache
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.AssemblyInfo.cs
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.csproj.CopyComplete
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.dll
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\ref\Woww.DAL.DAO.dll
+C:\Users\Steve\source\repos\Woww\Woww.DAL.DAO\obj\Debug\net5.0\Woww.DAL.DAO.pdb

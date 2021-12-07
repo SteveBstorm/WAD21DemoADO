@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30235b35-0f27-48a5-945f-13a080b1bff9": {
+      "ProjectGuid": "30235b35-0f27-48a5-945f-13a080b1bff9",
+      "DisplayName": "Woww",
+      "ColorIndex": 0
+    },
+    "ad027958-43ea-417b-9fb2-b3bbe2b89af8": {
+      "ProjectGuid": "ad027958-43ea-417b-9fb2-b3bbe2b89af8",
+      "DisplayName": "Woww.DAL.DTO",
+      "ColorIndex": 1
+    },
+    "6f8dc2d0-5dee-430e-8fee-9fbb4be94a5e": {
+      "ProjectGuid": "6f8dc2d0-5dee-430e-8fee-9fbb4be94a5e",
+      "DisplayName": "Woww.DAL.DAO",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
